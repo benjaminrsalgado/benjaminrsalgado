@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/benjamin-salgado-784899240">
+  <a href="https://www.linkedin.com/in/benjaminrsalgado/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/benjarsalgado">
@@ -26,13 +26,13 @@
 
 I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
 
-- 👨‍💻  I’m study a bootcamp in Software Engineer, and also I study a major in Computer Systems Engineer.
+- 👨‍💻  I study a bootcamp in Software Engineering, I also study a major in Computer Systems Engineering.
 
 - 👨‍🎓  I’m  also part of #100devs under the wing of Leon Noel.
 
-- 🎥 In my free time, I learn about finances and I have the ability to filmmaker skills.
+- 🎥 In my free time I learn about finances and I have filmmaker skills.
 
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/benjaminrsalgado)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminrsalgado/)
 
 ---
 
