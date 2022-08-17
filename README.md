@@ -30,7 +30,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - 👨‍🎓  I’m  also part of #100devs under the wing of Leon Noel.
 
-- 🎥 In my free time I learn about finances and I have filmmaker skills.
+- 🎥  In my free time I learn about finances and I have filmmaker skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminrsalgado/)
 
