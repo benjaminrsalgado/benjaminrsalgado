@@ -32,7 +32,8 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - 🎥 In my free time, I learn about finances and I have the ability to filmmaker skills.
 
-- :mailbox:How to reach me: [![www.linkedin.com/in/benjamin-salgado-784899240](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](
+www.linkedin.com/in/benjamin-salgado-784899240)
 
 ---
 
