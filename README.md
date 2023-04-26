@@ -26,7 +26,7 @@
 
 - I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
 
-- 👨‍💻  I study a bootcamp in Software Engineering, and I also study a major in Computer Systems Engineering.
+- 👨‍💻  I study Software Engineering, and I also study a major in Computer Systems Engineering.
 
 - 👨‍🎓  I’m  also part of #100devs under the wing of Leon Noel.
 
