@@ -56,7 +56,7 @@ Whether you're into Swift, mobile development, or just love building things with
 feel free to reach out! I'm always down to collaborate, learn, or just chat iOS dev.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3YT7d9n6s0Gs/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif?cid=790b7611gln2ze4zrythwlaiwa9sfoafiyti0abij4oz0klp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
   <p><b>“Code. Build. Learn. Repeat.”</b></p>
 </div>
 
