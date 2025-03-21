@@ -52,11 +52,11 @@
 
 ### 💬 Let's Connect
 
-Si eres dev, fan de Apple, o estás metido en el mundo iOS, ¡échame un mensaje!  
-Estoy abierto a aprender, colaborar o simplemente platicar sobre desarrollo móvil.
+Whether you're into Swift, mobile development, or just love building things with Apple tech —  
+feel free to reach out! I'm always down to collaborate, learn, or just chat iOS dev.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKP3YT7d9n6s0Gs/giphy.gif" width="250"/>
   <p><b>“Code. Build. Learn. Repeat.”</b></p>
 </div>
 
