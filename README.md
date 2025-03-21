@@ -50,7 +50,7 @@ feel free to reach out! I'm always down to collaborate, learn, or just chat iOS 
 
 <div align="center">
   <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif?cid=790b7611gln2ze4zrythwlaiwa9sfoafiyti0abij4oz0klp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
-  <p><b>“Code. Build. Learn. Repeat.”</b></p>
+  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”</b></p>
 </div>
 
 
