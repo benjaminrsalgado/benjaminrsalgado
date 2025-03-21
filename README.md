@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xThuWx6uSpx2xo08De/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"/>
 </div>
 
 ---
@@ -56,7 +56,7 @@ Si eres dev, fan de Apple, o estás metido en el mundo iOS, ¡échame un mensaje
 Estoy abierto a aprender, colaborar o simplemente platicar sobre desarrollo móvil.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
   <p><b>“Code. Build. Learn. Repeat.”</b></p>
 </div>
 
