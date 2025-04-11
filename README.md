@@ -5,7 +5,7 @@
 <div id="badges" align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="45" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/benjarsalgado" target="_blank">
