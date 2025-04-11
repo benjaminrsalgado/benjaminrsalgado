@@ -49,7 +49,6 @@
 - ✅ Practicing problem solving with architecture patterns and animations
 - ✅ Preparing for internship opportunities in 2026
 
-> “I build. I debug. I refactor. And then, I dance."
 
 ---
 
@@ -64,7 +63,7 @@ Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conv
 
 ---
 
-### 🚼 Contact
+### 👨🏻‍💻 Contact
 
 - **Email**: benjaminrsalgado@gmail.com  
 - **LinkedIn**: [linkedin.com/in/benjaminrsalgado](https://www.linkedin.com/in/benjaminrsalgado)
