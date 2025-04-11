@@ -50,6 +50,15 @@
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40" alt="Twitter"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/benjarsalgado" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter-circled--v1.png" width="45" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
