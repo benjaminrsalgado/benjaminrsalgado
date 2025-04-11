@@ -3,12 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/benjaminrsalgado/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="45" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/benjarsalgado">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/benjarsalgado" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/x.png" width="42" style="background-color:#1A1A1A; border-radius:50%; padding:4px;" alt="X (formerly Twitter)" />
   </a>
+</p>
 </div>
 
 <h1 align="center">
@@ -40,25 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="66" style="background:white; border-radius:50%; padding:6px;" />
 </div>
-
-  <p align="center">
-  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/benjarsalgado" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40" alt="Twitter"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/benjarsalgado" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter-circled--v1.png" width="45" alt="Twitter" />
-  </a>
-</p>
 
 ---
 
