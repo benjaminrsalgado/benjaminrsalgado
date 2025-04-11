@@ -38,7 +38,7 @@
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" />
   <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="60" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="60" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="64" style="background:white; border-radius:50%; padding:6px;" />
 </div>
 
 
