@@ -39,7 +39,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-in%20progress-orange" />
+  <img src="https://img.shields.io/badge/Xcode-Blue?logo=xcode&logoColor=white" />
+</div>
 
 ---
 
