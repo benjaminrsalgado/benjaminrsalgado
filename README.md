@@ -5,11 +5,11 @@
 <div id="badges" align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/benjarsalgado" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/x.png" width="42" style="background-color:#1A1A1A; border-radius:50%; padding:4px;" alt="X (formerly Twitter)" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </p>
 </div>
