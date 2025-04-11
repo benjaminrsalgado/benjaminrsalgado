@@ -41,6 +41,14 @@
   <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="66" style="background:white; border-radius:50%; padding:6px;" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/benjarsalgado" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</p>
 
 ---
 
