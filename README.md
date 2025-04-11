@@ -22,11 +22,11 @@
 
 ### 🤖 About Me
 
-- 💻 **iOS Developer in training** — crafting apps with **Swift & SwiftUI**, powered by Apple coffee and curiosity.
+- 💻 **iOS Developer in training** crafting apps with **Swift & SwiftUI**, powered by Apple coffee and curiosity.
 - 🎓 Studying **Computer Systems Engineering** in Mexico City.
 - 🎨 Self-taught explorer of clean architecture, MVVM, and expressive UI design.
 - 🧠 Passionate about building not just apps, but _experiences_.
-- 🌌 My journey is powered by the belief that software is art — and art should be intuitive, beautiful, and human.
+- 🌌 My journey is powered by the belief that software is art and art should be intuitive, beautiful, and human.
 
 ---
 
@@ -46,7 +46,7 @@
 
 - ✅ Studying with **Hacking with Swift** by Paul Hudson
 - ✅ Designing and building my first app portfolio
-- ✅ Practicing problem-solving with architecture patterns and animations
+- ✅ Practicing problem solving with architecture patterns and animations
 - ✅ Preparing for internship opportunities in 2026
 
 > “I build. I debug. I refactor. And then, I dance."
@@ -55,7 +55,7 @@
 
 ### 📢 Let's Connect
 
-Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conversations — I’d love to connect, collaborate, or just talk dev life. I believe great code begins with great communication. 
+Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conversations I’d love to connect, collaborate, or just talk dev life. I believe great code begins with great communication. 
 
 <div align="center">
   <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" width="300"/>
@@ -67,12 +67,13 @@ Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conv
 ### 🚼 Contact
 
 - **Email**: benjaminrsalgado@gmail.com  
-- **LinkedIn**: [linkedin.com/in/benjaminrsalgado](https://www.linkedin.com/in/benjaminrsalgado)  
-- **X / Twitter**: [@benjarsalgado](https://twitter.com/benjarsalgado)  
+- **LinkedIn**: [linkedin.com/in/benjaminrsalgado](https://www.linkedin.com/in/benjaminrsalgado)
 - **GitHub**: [@benjaminrsalgado](https://github.com/benjaminrsalgado)
+- **X / Twitter**: [@benjarsalgado](https://twitter.com/benjarsalgado)  
 
 ---
 
-<sub>"I believe in simplicity, intention, and that a single line of code can change everything."</sub>
+<sub>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+<br>— Martin Fowler</b></p></sub>
 
 
