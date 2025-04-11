@@ -44,10 +44,10 @@
 
 ### 📌 Currently
 
-- ✅ Studying with **Hacking with Swift** by Paul Hudson
-- ✅ Designing and building my first app portfolio
-- ✅ Practicing problem solving with architecture patterns and animations
-- ✅ Preparing for internship opportunities in 2026
+- Studying with **Hacking with Swift** by Paul Hudson
+- Designing and building my first app portfolio
+- Practicing problem solving with architecture patterns and animations
+- Preparing for internship opportunities in 2026
 
 
 ---
