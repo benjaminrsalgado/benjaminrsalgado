@@ -33,17 +33,17 @@
 
 ### 🛠️ Tech Stack
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-in%20progress-orange" alt="SwiftUI Badge" />
   <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/iOS-Developer-lightgrey" alt="iOS Badge" />
+    <img src="https://img.shields.io/badge/MVVM-architecture-blueviolet" alt="MVVM Badge" />
+    <img src="https://img.shields.io/badge/CoreData-learning-yellow" alt="Core Data Badge" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-in%20progress-orange" />
-  <img src="https://img.shields.io/badge/Xcode-Blue?logo=xcode&logoColor=white" />
-</div>
+
 
 ---
 
