@@ -23,11 +23,11 @@
 
 ### 👨‍💻 About Me
 
-- 📱 iOS Developer — I build apps using **Swift** & **SwiftUI**.
-- 🎓 Studying Computer Systems Engineering in México.
-- 🧠 Focused on learning best practices, clean code, and app architecture.
-- 🤓 Fan of tech, Apple, and everything Swift-related.
-- 🚀 On a mission to grow as a mobile dev and build amazing apps.
+👨‍💻 iOS Developer in training, building apps using **Swift & SwiftUI**  
+🎓 Studying Computer Systems Engineering in Mexico  
+🧠 Passionate about clean code, app architecture & best practices  
+🍎 Tech lover, Apple fan, and Swift enthusiast  
+🚀 On a mission to grow as a mobile developer and create amazing apps
 
 ---
 
@@ -38,6 +38,13 @@
   <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</div>
+<div>
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-in%20progress-orange)
+![Xcode](https://img.shields.io/badge/Xcode-Blue?logo=xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-Developer-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
 </div>
 
 ---
@@ -50,7 +57,8 @@ feel free to reach out! I'm always down to collaborate, learn, or just chat iOS 
 
 <div align="center">
   <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif?cid=790b7611gln2ze4zrythwlaiwa9sfoafiyti0abij4oz0klp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
-  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”</b></p>
+  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”
+— Steve Jobs</b></p>
 </div>
 
 
