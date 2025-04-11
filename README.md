@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-<p align="center">
   <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,34 +10,31 @@
   <a href="https://twitter.com/benjarsalgado" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-</p>
 </div>
 
-<h1 align="center">
-  Hey there! I'm Benjamín 👋
-</h1>
+<h1 align="center">Hey there! I'm Benjamín 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/KaLU4hOFIJui5Yw15T/giphy.gif?cid=790b7611qq4ihkqu864ktnecocwnru02yu8jnfdoxufiwwzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/KaLU4hOFIJui5Yw15T/giphy.gif" width="400" height="250"/>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🤖 About Me
 
-👨‍💻 iOS Developer in training, building apps using **Swift & SwiftUI**  
-🎓 Studying Computer Systems Engineering in Mexico  
-🧠 Passionate about clean code, app architecture & best practices  
-🍎 Tech lover, Apple fan, and Swift enthusiast  
-🚀 On a mission to grow as a mobile developer and create amazing apps
+- 💻 **iOS Developer in training** — crafting apps with **Swift & SwiftUI**, powered by Apple coffee and curiosity.
+- 🎓 Studying **Computer Systems Engineering** in Mexico City.
+- 🎨 Self-taught explorer of clean architecture, MVVM, and expressive UI design.
+- 🧠 Passionate about building not just apps, but _experiences_.
+- 🌌 My journey is powered by the belief that software is art — and art should be intuitive, beautiful, and human.
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tech Stack
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" />
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" />&nbsp;
   <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="60" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="66" style="background:white; border-radius:50%; padding:6px;" />
@@ -46,16 +42,37 @@
 
 ---
 
+### 📌 Currently
 
-### 💬 Let's Connect
+- ✅ Studying with **Hacking with Swift** by Paul Hudson
+- ✅ Designing and building my first app portfolio
+- ✅ Practicing problem-solving with architecture patterns and animations
+- ✅ Preparing for internship opportunities in 2026
 
-Whether you're into Swift, mobile development, or just love building things with Apple tech —  
-feel free to reach out! I'm always down to collaborate, learn, or just chat iOS dev.
+> “I build. I debug. I refactor. And then, I dance."
+
+---
+
+### 📢 Let's Connect
+
+Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conversations — I’d love to connect, collaborate, or just talk dev life. I believe great code begins with great communication. 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif?cid=790b7611gln2ze4zrythwlaiwa9sfoafiyti0abij4oz0klp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
-  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”
-— Steve Jobs</b></p>
+  <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" width="300"/>
+  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”<br>— Steve Jobs</b></p>
 </div>
+
+---
+
+### 🚼 Contact
+
+- **Email**: benjaminrsalgado@gmail.com  
+- **LinkedIn**: [linkedin.com/in/benjaminrsalgado](https://www.linkedin.com/in/benjaminrsalgado)  
+- **X / Twitter**: [@benjarsalgado](https://twitter.com/benjarsalgado)  
+- **GitHub**: [@benjaminrsalgado](https://github.com/benjaminrsalgado)
+
+---
+
+<sub>"I believe in simplicity, intention, and that a single line of code can change everything."</sub>
 
 
