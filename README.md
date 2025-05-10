@@ -1,79 +1,53 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFidWYzZGxpMDYwdGRrYmlvbWtxMGk3cmI3dnZ5YmpocTZwazh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTkWFZ1IDvsfS/giphy.gif" width="250"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5511b49d-de77-4311-96c5-caf9a024b15f" alt="Benjamin Salgado" width="800">
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/benjaminrsalgado" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/benjarsalgado" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-</div>
 
-<h1 align="center">Hey there! I'm Benjamín 👋</h1>
+---
+
+## 🍏 About Me
+
+
+💻 iOS Developer with a passion for building sleek, intuitive apps.  
+🎓 Computer Systems Engineering student on a mission to master the Apple ecosystem.  
+🥰 Every day, I fall a little more in love with Apple products.  
+📱 Creating apps that feel as polished as the devices they run on.
+
+
+---
+
+
+## 👨🏻‍💻 Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/KaLU4hOFIJui5Yw15T/giphy.gif" width="400" height="250"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/> 
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" /> 
+<img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="60" height="64"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/> 
+<img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="60" style="background-color:white; border-radius:50%; padding:10px;" />
 </div>
 
 ---
 
-### 🤖 About Me
+### 😁 Currently
+ 
+🧡 **Diving deep into iOS development**  
+with Hacking with Swift by Paul Hudson.  
 
-- 💻 **iOS Developer in training** crafting apps with **Swift & SwiftUI**, powered by Apple coffee and curiosity.
-- 🎓 Studying **Computer Systems Engineering** in Mexico City.
-- 🎨 Self-taught explorer of clean architecture, MVVM, and expressive UI design.
-- 🧠 Passionate about building not just apps, but _experiences_.
-- 🌌 My journey is powered by the belief that software is art and art should be intuitive, beautiful, and human.
+🏗️ **Crafting apps and projects**  
+to build a portfolio that reflects my skills, creativity, and passion for Apple tech.  
 
----
+🏫 **Engineering my future**  
+studying Computer Systems Engineering at UVEG to solidify my technical foundation.  
 
-### 🔧 Tech Stack
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" />&nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="60" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/ios-glyphs/90/github--v1.png" width="66" style="background:white; border-radius:50%; padding:6px;" />
-</div>
+💼 **Preparing for the real world**  
+focused on 2026 internships, aiming to contribute to innovative teams.    
 
 ---
 
-### 📌 Currently
+## 🫸🏻🫷🏻 Let's Connect
 
-- Studying with **Hacking with Swift** by Paul Hudson
-- Designing and building my first app portfolio
-- Practicing problem solving with architecture patterns and animations
-- Preparing for internship opportunities in 2026
+If you want to connect, collaborate, or just chat about Swift, design, or iOS development, you can find all my links here:
 
-
----
-
-### 📢 Let's Connect
-
-Whether you’re into Swift, love clean UX, or simply enjoy meaningful tech conversations I’d love to connect, collaborate, or just talk dev life. I believe great code begins with great communication. 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" width="300"/>
-  <p><b>“Great things in business are never done by one person; they’re done by a team of people.”<br>— Steve Jobs</b></p>
-</div>
-
----
-
-### 👨🏻‍💻 Contact
-
-- **Email**: benjaminrsalgado@gmail.com  
-- **LinkedIn**: [linkedin.com/in/benjaminrsalgado](https://www.linkedin.com/in/benjaminrsalgado)
-- **GitHub**: [@benjaminrsalgado](https://github.com/benjaminrsalgado)
-- **X / Twitter**: [@benjarsalgado](https://twitter.com/benjarsalgado)  
-
----
-
-
-<sub>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-<br>— Martin Fowler</b></p></sub>
-
-
+🌐 [bento.me/benjaminrsalgado](https://bento.me/benjaminrsalgado)
