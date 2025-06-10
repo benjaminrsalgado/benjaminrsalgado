@@ -1,7 +1,8 @@
 <div id="header" align="center">
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5511b49d-de77-4311-96c5-caf9a024b15f" alt="Benjamin Salgado" width="800">
+  <img src="https://github.com/user-attachments/assets/1da45f1c-e7bc-48c3-b282-46d1c55546cd" alt="Benjamin Salgado" width="800">
 </div>
+
 
 
 ---
