@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6463b019-6d12-426b-89cf-4bdbb384e4cf" alt="Benjamin Salgado" width="800">
+  <img src="https://github.com/user-attachments/assets/6463b019-6d12-426b-89cf-4bdbb384e4cf" alt="Benjamin Salgado" width="600">
 </div>
 
 
