@@ -12,14 +12,9 @@
 
 ## 🍏 About Me
 
-
-💻 iOS Developer with a passion for building sleek, intuitive apps.  
-🎓 Computer Systems Engineering student on a mission to master the Apple ecosystem.  
-🥰 Every day, I fall a little more in love with Apple products.  
-📱 Creating apps that feel as polished as the devices they run on.
-
-
----
+👨🏻‍💻 I’m an iOS Developer passionate about building clean and intuitive apps using Swift & SwiftUI.  
+🎓 I’m finishing my degree in Computer Systems Engineering at UVEG.  
+🔎 Currently seeking a professional internship to complete my graduation requirements and start my journey as an iOS developer.
 
 
 ## 👨🏻‍💻 Tech Stack
@@ -34,24 +29,9 @@
 
 ---
 
-### 😁 Currently
  
-🧡 **Diving deep into iOS development**  
-with Hacking with Swift by Paul Hudson.  
-
-🏗️ **Crafting apps and projects**  
-to build a portfolio that reflects my skills, creativity, and passion for Apple tech.  
-
-🏫 **Engineering my future**  
-studying Computer Systems Engineering at UVEG to solidify my technical foundation.  
-
-💼 **Preparing for the real world**  
-focused on 2026 internships, aiming to contribute to innovative teams.    
-
----
 
 ## 🫸🏻🫷🏻 Let's Connect
 
-If you want to connect, collaborate, or just chat about Swift, design, or iOS development, you can find all my links here:
-
+If you’d like to connect, collaborate, or chat about Swift, design, or iOS development, feel free to reach out:  
 🌐 [bento.me/benjaminrsalgado](https://bento.me/benjaminrsalgado)
