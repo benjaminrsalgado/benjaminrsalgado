@@ -1,21 +1,10 @@
 <div id="header" align="center">
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6463b019-6d12-426b-89cf-4bdbb384e4cf" alt="Benjamin Salgado" width="600">
-</div>
 
+<img width="700" height="600" alt="F784EE02-9739-465D-8B4D-2D55D510177F" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
 
-
-
-
-
----
-
-## 🍏 About Me
-
-👨🏻‍💻 I’m an iOS Developer passionate about building clean and intuitive apps using Swift & SwiftUI.  
-🎓 I’m finishing my degree in Computer Systems Engineering at UVEG.  
-🔎 Currently seeking a professional internship to complete my graduation requirements and start my journey as an iOS developer.
-
+# Hi there and welcome to my GitHub page 👋🏻
+Mi name is Benjamin Rojo Salgado and I´m an iOS Developer and Computer Systems Engineering 
 
 ## 👨🏻‍💻 Tech Stack
 
@@ -27,7 +16,18 @@
 <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="60" style="background-color:white; border-radius:50%; padding:10px;" />
 </div>
 
----
+</div>
+
+
+
+## 🍏 What do I do? 
+
+👨🏻‍💻 I’m an iOS Developer passionate about building apps using Swift & SwiftUI.  
+🎓 I’m finishing my degree in Computer Systems Engineering at UVEG.  
+📱 I’ve been developing personal projects to put my knowledge into practice and grow as a mobile developer.
+🔎 Currently seeking a professional internship to complete my graduation requirements and start my journey as an iOS developer.
+
+
 
  
 
