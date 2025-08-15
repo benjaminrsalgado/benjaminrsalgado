@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img width="700" height="600" alt="F784EE02-9739-465D-8B4D-2D55D510177F" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
+<img width="600" height="600" alt="F784EE02-9739-465D-8B4D-2D55D510177F" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
 
 <h1>Hi there and welcome to my GitHub page 👋🏻</h1>
 
