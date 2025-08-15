@@ -4,7 +4,7 @@
 <img width="700" height="600" alt="F784EE02-9739-465D-8B4D-2D55D510177F" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
 
 # Hi there and welcome to my GitHub page 👋🏻
-Mi name is Benjamin Rojo Salgado and I´m an iOS Developer and Computer Systems Engineering 
+My name is Benjamin Rojo Salgado, and I’m an iOS Developer and a Computer Systems Engineering student.
 
 ## 👨🏻‍💻 Tech Stack
 
