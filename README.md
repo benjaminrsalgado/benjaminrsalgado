@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img width="600" height="600" alt="Benjamin Rojo" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
+<img width="600" height="600" alt="Benjamin Rojo" src="" />
 
 <h1>Hi there and welcome to my GitHub 👋🏻</h1>
 
