@@ -1,11 +1,11 @@
 <div id="header" align="center">
 
-<img width="600" height="600" alt="F784EE02-9739-465D-8B4D-2D55D510177F" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
+<img width="600" height="600" alt="Benjamin Rojo" src="https://github.com/user-attachments/assets/a7c7d797-4758-481c-a7c1-40dd2c068c2e" />
 
-<h1>Hi there and welcome to my GitHub page 👋🏻</h1>
+<h1>Hi there and welcome to my GitHub 👋🏻</h1>
 
 <p>
-My name is Benjamin Rojo Salgado, and I’m an iOS Developer and a Computer Systems Engineering student.
+My name is Benjamin Rojo Salgado, and I'm a Backend Developer specialized in REST APIs, microservices, and data architecture.
 </p>
 
 </div>
@@ -16,10 +16,13 @@ My name is Benjamin Rojo Salgado, and I’m an iOS Developer and a Computer Syst
 
 <h2>👨🏻‍💻 Tech Stack</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/> 
-<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI Icon" /> 
-<img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" title="Xcode" alt="Xcode" width="60" height="64"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
 <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="60" style="background-color:white; border-radius:50%; padding:10px;" />
 
 </div>
@@ -28,12 +31,13 @@ My name is Benjamin Rojo Salgado, and I’m an iOS Developer and a Computer Syst
 
 <div align="center">
 
-<h2>🍏 What do I do?</h2>
+<h2>🚀 What do I do?</h2>
 
-👨🏻‍💻 I’m an iOS Developer passionate about building apps using Swift & SwiftUI.  
-🎓 I’m finishing my degree in Computer Systems Engineering at UVEG.  
-📱 I’ve been developing personal projects to put my knowledge into practice and grow as a mobile developer.  
-🔎 Currently seeking a professional internship to complete my graduation requirements and start my journey as an iOS developer.
+👨🏻‍💻 Backend Developer building high performance REST APIs with FastAPI & Flask.  
+🐳 I deploy and manage microservices architectures using Docker.  
+🗄️ I design and normalize relational databases with PostgreSQL & SQLAlchemy.  
+📱 Self taught iOS developer I learned Swift & SwiftUI on my own during college.  
+🎓 Computer Systems Engineer, graduated from UVEG with a 99.56/100 GPA.
 
 </div>
 
@@ -43,7 +47,7 @@ My name is Benjamin Rojo Salgado, and I’m an iOS Developer and a Computer Syst
 
 <h2>🫸🏻🫷🏻 Let's Connect</h2>
 
-If you’d like to connect, collaborate, or chat about Swift, design, or iOS development, feel free to reach out:  
+If you'd like to connect, collaborate, or talk about backend development, APIs, or mobile dev, feel free to reach out:  
 🌐 <a href="https://bento.me/benjaminrsalgado">bento.me/benjaminrsalgado</a>
 
 </div>
