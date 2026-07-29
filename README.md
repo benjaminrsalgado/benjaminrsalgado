@@ -1,12 +1,32 @@
-<div id="header" align="center">
+<div align="center">
 
-<img width="600" height="600" alt="Benjamin Rojo" src="" />
+# 👋 Hey, I'm Benjamin Rojo Salgado
 
-<h1>Hi there and welcome to my GitHub 👋🏻</h1>
+### Backend Developer | Process Automation | Database Engineering
 
-<p>
-My name is Benjamin Rojo Salgado, and I'm a Backend Developer specialized in REST APIs, microservices, and data architecture.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+REST+APIs+with+FastAPI+%26+Flask;Automating+workflows+with+Python;Designing+PostgreSQL+databases;Deploying+microservices+with+Docker" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+```⚡ Fun fact: I turned a 9-minute process into a 1-minute one. 2M records, no sweat.```
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 
@@ -14,40 +34,14 @@ My name is Benjamin Rojo Salgado, and I'm a Backend Developer specialized in RES
 
 <div align="center">
 
-<h2>👨🏻‍💻 Tech Stack</h2>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
-<img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="60" style="background-color:white; border-radius:50%; padding:10px;" />
+### 📊 What I'm building
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<h2>🚀 What do I do?</h2>
-
-👨🏻‍💻 Backend Developer building high performance REST APIs with FastAPI & Flask.  
-🐳 I deploy and manage microservices architectures using Docker.  
-🗄️ I design and normalize relational databases with PostgreSQL & SQLAlchemy.  
-📱 Self taught iOS developer I learned Swift & SwiftUI on my own during college.  
-🎓 Computer Systems Engineer, graduated from UVEG with a 99.56/100 GPA.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>🫸🏻🫷🏻 Let's Connect</h2>
-
-If you'd like to connect, collaborate, or talk about backend development, APIs, or mobile dev, feel free to reach out:  
-🌐 <a href="https://bento.me/benjaminrsalgado">bento.me/benjaminrsalgado</a>
-
-</div>
+```
+🔹 Backend Developer building high-performance REST APIs with FastAPI & Flask
+🔹 Cut a 2M-record weekly process from 9 min → 1 min by optimizing Python pipelines
+🔹 Deploying & monitoring microservices with Docker + Linux (Bash/cron)
+🔹 Designing normalized relational databases with PostgreSQL & SQLAlchemy
+🔹 Self-taught iOS dev — learned Swift & SwiftUI solo during college
+🔹 Computer Systems Engineer @ UVEG — 99.56/100 GPA
